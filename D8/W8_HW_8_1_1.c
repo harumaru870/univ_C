@@ -1,4 +1,3 @@
-/* プログラム8.1.1: 学籍番号11桁のチェックデジット検証 */
 #include <stdio.h>
 
 int main(void) {
